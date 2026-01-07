@@ -1,4 +1,4 @@
-#Network error interstitial resources
+# Network error interstitial resources
 
 This directory contains the HTML template and resources displayed in the case of
 network errors received when fetching the root document or iframes. These error
